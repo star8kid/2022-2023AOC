@@ -1,1 +1,1 @@
-# 2022-2023AOC
+# AdventOfCode2022
